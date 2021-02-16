@@ -9,3 +9,7 @@ git branch <new branch>
 --przełączenie do innej gałęzi
 
 git switch <new branch>
+
+--usuwanie gałęzi
+
+git branch --delete <branch name>
