@@ -1,0 +1,11 @@
+--sprawdzenie na ktrym branchu jestesmy 
+
+git branchu
+
+--utworzenie nowej gałęzi 
+
+git branch <new branch>
+
+--przełączenie do innej gałęzi
+
+git switch <new branch>
