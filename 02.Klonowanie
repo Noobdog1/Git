@@ -1,0 +1,3 @@
+--klonownie pozwala na zaciągnięcie całego repozytorium do wskazanego folderu 
+
+git clone <url remote repo>
