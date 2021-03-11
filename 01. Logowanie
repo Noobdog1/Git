@@ -9,3 +9,5 @@ git config --global user.email "MY_NAME@example.com"
 -- weryfikacja ustawie tosamosci 
 
 git config --list
+
+ss
